@@ -1,6 +1,6 @@
 
 
-name: .NET
+name: 'Build and Test'
 
 on:
   push:
